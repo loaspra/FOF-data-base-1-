@@ -1,7 +1,7 @@
 import org.apache.jena.query.*;
-import org.apache.jena.rdf.model.Literal;
-import org.apache.jena.rdf.model.Model;
-import org.apache.jena.util.FileManager;
+// import org.apache.jena.rdf.model.Literal;
+// import org.apache.jena.rdf.model.Model;
+// import org.apache.jena.util.FileManager;
 
 class Main {
     public static void main(String[] args) {
